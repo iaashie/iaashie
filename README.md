@@ -1,4 +1,4 @@
-# 👋 Hi, Aashi Panchal
+# 👋 Hi, I'm Aashi Panchal
 
 I'm a 3rd-year B.Tech ECE student passionate about IoT,embedded systems and pcb designing. I enjoy building real-world solutions using technology.
 
@@ -7,7 +7,7 @@ I'm a 3rd-year B.Tech ECE student passionate about IoT,embedded systems and pcb 
 ### [ Intelligent Traffic Management System](https://github.com/iaashie/Traffic-Management-System)
 Uses YOLOv5 and Raspberry Pi to dynamically control traffic lights based on vehicle density.
 
-### [ Electricity from Waste Management](https://github.com/iaashie/Management-of-Electricity-using-waste-materials)
+### [ Management of Electricity using Waste materials](https://github.com/iaashie/Management-of-Electricity-using-waste-materials)
 Generates and manages electricity from plastic/rubber waste using a heating panel and filters pollution.
 
 ### [Smart Air Purifier System ](https://github.com/iaashie/Smart-Air-Purifier-System/tree/main)
