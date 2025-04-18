@@ -18,5 +18,5 @@ A smart agriculture solution that monitors soil and environmental conditions usi
 
 ## How to reach me
 - Email: aashipanchal2004@gmail.com
-- [LinkedIn](www.linkedin.com/in/iaashie)
+- [LinkedIn](http://linkedin.com/in/iaashie/)
 - [GitHub](https://github.com/iaashie)
