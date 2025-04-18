@@ -19,7 +19,4 @@ A smart agriculture solution that monitors soil and environmental conditions usi
 ## Work Experience 
 ### [Internship](https://github.com/iaashie/Mangal-Camtronics-Internship-)
 Completed a six-week hands-on internship at Mangal Camtronics, Vasai, gaining practical experience in PCB assembly, SMT/SMD operations, and quality assurance processes.
-## How to reach me
-- Email: aashipanchal2004@gmail.com
-- [LinkedIn](http://linkedin.com/in/iaashie/)
-- [GitHub](https://github.com/iaashie)
+
