@@ -17,6 +17,6 @@ IoT-based safety system to prevent train collisions using proximity sensors and 
 A smart agriculture solution that monitors soil and environmental conditions using IoT sensors to optimize crop health and yield.
 
 ## How to reach me
-- Email: 1032222545@mitwpu.edu.in
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- Email: aashipanchal2004@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/iaashie)
+- GitHub: [github.com/your-username](https://github.com/iaashie)
