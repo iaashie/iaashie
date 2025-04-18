@@ -14,6 +14,7 @@ Generates and manages electricity from plastic/rubber waste using a heating pane
 IoT-based safety system to prevent train collisions using proximity sensors and AI-based alerts.
 
 ### [Crop Care ](https://github.com/iaashie/Crop-Care)
+A smart agriculture solution that monitors soil and environmental conditions using IoT sensors to optimize crop health and yield.
 
 ## How to reach me
 - Email: 1032222545@mitwpu.edu.in
