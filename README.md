@@ -16,7 +16,9 @@ IoT-based safety system to prevent train collisions using proximity sensors and 
 ### [Crop Care ](https://github.com/iaashie/Crop-Care)
 A smart agriculture solution that monitors soil and environmental conditions using IoT sensors to optimize crop health and yield.
 
-## Work Experience 
+## Internship 
 ### [Internship](https://github.com/iaashie/Mangal-Camtronics-Internship-)
 Completed a six-week hands-on internship at Mangal Camtronics, Vasai, gaining practical experience in PCB assembly, SMT/SMD operations, and quality assurance processes.
 
+## Publication
+### [IJISRT23APR1123](https://github.com/iaashie/Paper-Publication)
