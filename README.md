@@ -1,6 +1,6 @@
 # Hi, I'm Aashi Panchal
 
-I'm a 3rd-year B.Tech ECE student passionate about IoT,embedded systems and pcb designing. I enjoy building real-world solutions using technology.
+I'm a 4th-year B.Tech ECE student passionate about IoT,embedded systems and pcb designing. I enjoy building real-world solutions using technology.
 
 ## Projects
 
