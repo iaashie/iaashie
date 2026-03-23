@@ -17,11 +17,11 @@ IoT-based safety system to prevent train collisions using proximity sensors and 
 A smart agriculture solution that monitors soil and environmental conditions using IoT sensors to optimize crop health and yield.
 
 ## Internship 
-### [Internship](https://github.com/iaashie/Mangal-Camtronics-Internship-)
+### [Internship-1](https://github.com/iaashie/Mangal-Camtronics-Internship-)
 Completed a six-week hands-on internship at Mangal Camtronics, Vasai, gaining practical experience in PCB assembly, SMT/SMD operations, and quality assurance processes.
 
-### [Internship](https://github.com/iaashie/Pune Instrumentstion Pvt Ltd)
-Completed a six-week hands-on internship at Mangal Camtronics, Vasai, gaining practical experience in PCB assembly, SMT/SMD operations, and quality assurance processes.
+### [Internship-2](https://github.com/iaashie/Pune-Instrumentation-Pvt-Ltd)
+Worked on industrial automation panels, performing testing, wiring validation, and developing an Arduino-based signal monitoring system.
 
 
 ## Publication
